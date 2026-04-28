@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Shubhangi
 - 👀 I’m interested in DataBase
 - 🌱 I’m currently learning Data Science With AI
-- 📫 How to reach me www.linkedin.com/in/shubhangi-sharma-456b611a5
+- 📫 How to reach me www.linkedin.com/in/shubhangi-sharma08
 
 <!---
 Shubhangi2508/Shubhangi2508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
